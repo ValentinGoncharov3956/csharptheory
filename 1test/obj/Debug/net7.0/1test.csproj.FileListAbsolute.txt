@@ -1,0 +1,15 @@
+D:\Other\Study\Lection1\1test\bin\Debug\net7.0\1test.exe
+D:\Other\Study\Lection1\1test\bin\Debug\net7.0\1test.deps.json
+D:\Other\Study\Lection1\1test\bin\Debug\net7.0\1test.runtimeconfig.json
+D:\Other\Study\Lection1\1test\bin\Debug\net7.0\1test.dll
+D:\Other\Study\Lection1\1test\bin\Debug\net7.0\1test.pdb
+D:\Other\Study\Lection1\1test\obj\Debug\net7.0\1test.csproj.AssemblyReference.cache
+D:\Other\Study\Lection1\1test\obj\Debug\net7.0\1test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other\Study\Lection1\1test\obj\Debug\net7.0\1test.AssemblyInfoInputs.cache
+D:\Other\Study\Lection1\1test\obj\Debug\net7.0\1test.AssemblyInfo.cs
+D:\Other\Study\Lection1\1test\obj\Debug\net7.0\1test.csproj.CoreCompileInputs.cache
+D:\Other\Study\Lection1\1test\obj\Debug\net7.0\1test.dll
+D:\Other\Study\Lection1\1test\obj\Debug\net7.0\refint\1test.dll
+D:\Other\Study\Lection1\1test\obj\Debug\net7.0\1test.pdb
+D:\Other\Study\Lection1\1test\obj\Debug\net7.0\1test.genruntimeconfig.cache
+D:\Other\Study\Lection1\1test\obj\Debug\net7.0\ref\1test.dll
